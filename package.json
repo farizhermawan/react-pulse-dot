@@ -3,6 +3,12 @@
   "version": "1.0.1",
   "description": "A simple pulsating dot for reactjs",
   "author": "farizhermawan",
+  "keywords": [
+    "pulse-dot",
+    "pulsating",
+    "pulse",
+    "reactjs"
+  ],
   "license": "MIT",
   "repository": "farizhermawan/reactjs-pulsating-dot",
   "main": "dist/index.js",
