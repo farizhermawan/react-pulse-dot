@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import PulseDot from '../.'
+import PulseDot from 'reactjs-pulsating-dot'
 import 'reactjs-pulsating-dot/dist/index.css'
 
 const App = () => {

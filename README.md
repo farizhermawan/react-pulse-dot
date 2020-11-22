@@ -15,7 +15,7 @@ npm install --save reactjs-pulsating-dot
 ```jsx
 import React, { Component } from 'react'
 
-import PulseDot from ''
+import PulseDot from 'reactjs-pulsating-dot'
 
 class Example extends Component {
   render() {
@@ -25,7 +25,7 @@ class Example extends Component {
 ```
 
 ## Demo
-_will be updated_
+Check out [the demo](http://farizhermawan.github.io/reactjs-pulsating-dot) based on latest release
 
 ## License
 
