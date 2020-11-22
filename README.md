@@ -25,7 +25,7 @@ class Example extends Component {
 ```
 
 ## Demo
-Check out [the demo](http://farizhermawan.github.io/reactjs-pulsating-dot) based on latest release
+Check out [the demo](https://farizhermawan.github.io/reactjs-pulsating-dot/) based on latest release
 
 ## License
 
