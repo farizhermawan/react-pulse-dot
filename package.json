@@ -1,5 +1,5 @@
 {
-  "name": "reactjs-pulsating-dot",
+  "name": "react-pulse-dot",
   "version": "1.0.2",
   "description": "A simple pulsating dot for reactjs",
   "author": "farizhermawan",
@@ -10,7 +10,7 @@
     "reactjs"
   ],
   "license": "MIT",
-  "repository": "farizhermawan/reactjs-pulsating-dot",
+  "repository": "farizhermawan/react-pulse-dot",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",

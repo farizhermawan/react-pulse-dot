@@ -1,13 +1,13 @@
-# reactjs-pulsating-dot
+# react-pulse-dot
 
 > A simple pulsating dot for reactjs
 
-[![NPM](https://img.shields.io/npm/v/reactjs-pulsating-dot.svg)](https://www.npmjs.com/package/reactjs-pulsating-dot) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-pulse-dot.svg)](https://www.npmjs.com/package/react-pulse-dot) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save reactjs-pulsating-dot
+npm install --save react-pulse-dot
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install --save reactjs-pulsating-dot
 ```jsx
 import React, { Component } from 'react'
 
-import PulseDot from 'reactjs-pulsating-dot'
+import PulseDot from ''
 
 class Example extends Component {
   render() {
@@ -25,7 +25,7 @@ class Example extends Component {
 ```
 
 ## Demo
-Check out [the demo](https://farizhermawan.github.io/reactjs-pulsating-dot/) based on latest release
+Check out [the demo](https://farizhermawan.github.io/react-pulse-dot/) based on latest release
 
 ## License
 

@@ -1,6 +1,6 @@
 {
-  "short_name": "reactjs-pulsating-dot",
-  "name": "reactjs-pulsating-dot",
+  "short_name": "react-pulse-dot",
+  "name": "react-pulse-dot",
   "icons": [
     {
       "src": "favicon.ico",
