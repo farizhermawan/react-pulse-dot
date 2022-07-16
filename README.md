@@ -15,7 +15,8 @@ npm install --save react-pulse-dot
 ```jsx
 import React, { Component } from 'react'
 
-import PulseDot from ''
+import PulseDot from 'react-pulse-dot'
+import 'react-pulse-dot/dist/index.css'
 
 class Example extends Component {
   render() {
